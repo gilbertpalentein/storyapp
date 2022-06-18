@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/new_story"
+        android:title="@string/add_story"
+        android:icon="@drawable/ic_add"
+        app:showAsAction="always"/>
+
+    <item
+        android:id="@+id/story_maps"
+        android:title="@string/user_story_map"
+        android:icon="@drawable/ic_maps"
+        app:showAsAction="always"/>
+</menu>

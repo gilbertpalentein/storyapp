@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">StoryApp</string>
+    <string name="title_home">Selamat Datang di StoryApp %1$s!!!</string>
+    <string name="logout">Keluar</string>
+    <string name="image_welcome">Logo Aplikasi</string>
+    <string name="title_welcome">Selamat Datang di StoryApp!!!</string>
+    <string name="title_desc">Deskripsi Judul</string>
+    <string name="message_welcome">Halo!!\nAplikasi ini membagikan cerita dari berbagai pengguna dicoding</string>
+    <string name="message_desc">Deskripsi Pesan</string>
+    <string name="login">Masuk</string>
+    <string name="login_welcome">Tombol Masuk</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="signup">Daftar</string>
+    <string name="signup_welcome">Tombol Daftar</string>
+    <string name="title_login_page">Halaman Login</string>
+    <string name="title_signup_page">Halaman Pendaftaran</string>
+    <string name="name">Nama</string>
+    <string name="user_story_photo">Foto Pengguna</string>
+    <string name="username_user">Nama</string>
+    <string name="add_story">Tambah Cerita Baru</string>
+    <string name="detail_story_photo">Detail cerita pengguna</string>
+    <string name="description">Deskripsi Cerita</string>
+    <string name="pass_validation">Password minimal 6 huruf!</string>
+    <string name="camera_x">kamera</string>
+    <string name="gallery">galeri</string>
+    <string name="upload">unggah</string>
+    <string name="add_photo">Tambah Foto</string>
+    <string name="take_photo">Ambil Foto</string>
+    <string name="choose_photo">Pilih Foto</string>
+    <string name="upload_photo">Unggah Foto</string>
+    <string name="photo_description">Deskripsi Foto</string>
+    <string name="title_activity_maps">Peta Cerita</string>
+    <string name="user_story_map">Peta Cerita Pengguna Dicoding</string>
+    <string name="check_password">Password minimal 6 huruf atau lebih</string>
+    <string name="normal_type">Normal</string>
+    <string name="satellite_type">Satellite</string>
+    <string name="terrain_type">Terrain</string>
+    <string name="hybrid_type">Hybrid</string>
+    <string name="map_title">Lokasi Pengguna Dicoding</string>
+    <string name="retry">Coba Lagi!</string>
+    <string name="regis_status">Berhasil Daftar</string>
+    <string name="login_status">Berhasil Masuk</string>
+    <string name="take_a_picture">Ambil Foto</string>
+    <string name="switch_camera">Putar Kamera</string>
+    <string name="languange_setting">Pengaturan Bahasa</string>
+    <string name="login_image">Logo Login</string>
+    <string name="registration_logo">Logo Registrasi</string>
+    <string name="upload_status">Berhasil</string>
+
+</resources>
